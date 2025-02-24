@@ -1,0 +1,10 @@
+mlflow
+dagshub
+dvc
+bentoml
+python-dotenv
+python-box
+ipykernel
+librosa
+
+-e .
