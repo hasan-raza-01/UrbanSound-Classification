@@ -7,4 +7,4 @@ python-box
 ipykernel
 librosa
 
--e .
+# -e .
